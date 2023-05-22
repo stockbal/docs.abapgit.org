@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://devepos.com/sitemap.xml
+Sitemap: https://docs.abapgit.org/sitemap.xml
